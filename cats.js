@@ -1,1 +1,2 @@
-g("MEEEEOOOOOOOOOOOOOOWWWWWWWWWWWWWWWWWWWWWWWW");
+console.log("MEEEEEEEOOOOOWWW");
+console.log("Purrrrrrrrrr");
