@@ -1,3 +1,1 @@
-console.log("MEEEEEEEOOOOOWWW");
-console.log("Purrrrrrrrrr");
-sadadadadadadadadadadadadadadadadasdddddddddddddddddddddsddddddddddddddddddasasasasasasasasasasasasassaassasaas
+g("MEEEEOOOOOOOOOOOOOOWWWWWWWWWWWWWWWWWWWWWWWW");
